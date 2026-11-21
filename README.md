@@ -11,3 +11,5 @@
 ## Скачать
 
 Откройте [раздел релизов](https://github.com/Pinebyte-Studio/sleepy-penguin-free/releases), скачайте `SleepyPenguin.exe` из списка файлов релиза и запустите его.
+
+Создатели:@Hyndex322 @hosteagleson
